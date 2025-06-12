@@ -27,6 +27,8 @@ A Python project to detect any changes in file content using hashing (SHA256). U
 
 ![image alt](https://github.com/nikhithavadlamudi-cyber/fileintegritychecker/blob/b614e4b0ebd56b87f1efcfb4269abaca6d0068ea/code_part2.png)
 
+![image alt](https://github.com/nikhithavadlamudi-cyber/fileintegritychecker/blob/18e798133079dc53dcf0909cfe2519306cc6c282/code_part3.png)
+
 ---
 
 ### 2. Output in Terminal (Detects Changes)
