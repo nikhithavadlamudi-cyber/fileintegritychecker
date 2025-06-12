@@ -22,8 +22,8 @@ A Python project to detect any changes in file content using hashing (SHA256). U
 
 ## 📸 Screenshots
 
-### 1. Full Python Code in VS Code
-![Code](code_scre)
+### 1. Full Python Code in VS Code)
+![image alt](https://github.com/nikhithavadlamudi-cyber/fileintegritychecker/blob/4cb1cb77f990632a5ad7f4996e4e8e68cc7df288/code_part1.png)
 
 ---
 
