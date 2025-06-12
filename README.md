@@ -41,11 +41,6 @@ A Python project to detect any changes in file content using hashing (SHA256). U
 
 ---
 
-### 4. README.md Preview
-![README](readme_screenshot.png)
-
----
-
 ## 🚀 How to Use
 
 ```python
