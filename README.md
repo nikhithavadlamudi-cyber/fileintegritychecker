@@ -37,7 +37,7 @@ A Python project to detect any changes in file content using hashing (SHA256). U
 ---
 
 ### 3. File List in Project Explorer
-![Explorer](explorer_screenshot.png)
+![image alt](https://github.com/nikhithavadlamudi-cyber/fileintegritychecker/blob/130a3b4b2167354e5aae7f320eeca7c69836a8af/explorer_screenshot.png)
 
 ---
 
