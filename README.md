@@ -32,7 +32,7 @@ A Python project to detect any changes in file content using hashing (SHA256). U
 ---
 
 ### 2. Output in Terminal (Detects Changes)
-![Output](output_screenshot.png)
+![image alt](https://github.com/nikhithavadlamudi-cyber/fileintegritychecker/blob/cfa74ad0914b948f5ad87930ade65c2f64f9936d/output_screenshot.png)
 
 ---
 
